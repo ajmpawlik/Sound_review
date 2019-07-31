@@ -1,2 +1,3 @@
-def change_frequency
+def change_frequency(input)
+  input
 end
